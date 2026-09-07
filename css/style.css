@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    
+}
+.banner_text{
+    padding-top: 100px;
+}
+h1{
+    font-size: 60px;
+    line-height: 1.2;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+    padding-top: 30px;
+}  
+.button_group{
+    padding-top: 30px;
+}
+#about{
+    padding-top: 100px;
+}
